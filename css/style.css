@@ -1,0 +1,49 @@
+
+.google{
+    width: 100%;
+    height: 65px;
+    padding-top: 200px;
+    padding-bottom: 65px;
+}
+.form{
+    text-align: center;
+    background-color: rgba(226, 229, 226, 0.785);
+}
+form>label{
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+    margin-top: 5px;
+    width: 100%;
+}
+.d-1{
+    float: left;
+    background-color: rgb(36, 204, 204);
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-right: 5px;
+    padding: 20px;
+    height: 80px;
+}
+.d-2{
+    float: left;
+    width: 30%;
+    height: 80px;
+    text-align: center;
+    background-color: rgb(34, 196, 196);
+    margin-right: 5px;
+    padding: 20px;  
+    
+}
+.d-3{
+    float: left;
+    width: 31%;
+    text-align: center;
+    background-color: #29b5be;
+    padding: 20px;
+}
+.footer{
+    text-align: center;
+    margin-top: 20px;
+}
